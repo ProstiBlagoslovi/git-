@@ -1,0 +1,15 @@
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\bin\Debug\net6.0\gitкр.exe
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\bin\Debug\net6.0\gitкр.deps.json
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\bin\Debug\net6.0\gitкр.runtimeconfig.json
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\bin\Debug\net6.0\gitкр.dll
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\bin\Debug\net6.0\gitкр.pdb
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\obj\Debug\net6.0\gitкр.csproj.AssemblyReference.cache
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\obj\Debug\net6.0\gitкр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\obj\Debug\net6.0\gitкр.AssemblyInfoInputs.cache
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\obj\Debug\net6.0\gitкр.AssemblyInfo.cs
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\obj\Debug\net6.0\gitкр.csproj.CoreCompileInputs.cache
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\obj\Debug\net6.0\gitкр.dll
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\obj\Debug\net6.0\refint\gitкр.dll
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\obj\Debug\net6.0\gitкр.pdb
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\obj\Debug\net6.0\gitкр.genruntimeconfig.cache
+C:\Users\stud.KIT\Documents\Users\user224 Щелчкова\gitкр\obj\Debug\net6.0\ref\gitкр.dll
