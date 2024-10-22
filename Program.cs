@@ -23,7 +23,10 @@ namespace gitкр
         Console.WriteLine("Расстояние между двумя точками: {0}", distance);
 
             //площадь куба
+            
+            //периметр куба
 
+            //объём куба 
 
             Console.ReadLine();
         }
