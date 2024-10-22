@@ -22,6 +22,9 @@ namespace gitкр
         double distance = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
         Console.WriteLine("Расстояние между двумя точками: {0}", distance);
 
+            //площадь куба
+
+
             Console.ReadLine();
         }
 }
